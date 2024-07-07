@@ -1,8 +1,8 @@
-👋 Hi, I’m Piotr Maslak  
-👀 I’m living in Warsaw the capital city of Poland  
+👋 Hi, I’m sysop with dev and mgmt skills  
+👀 I’m living in Warsaw/Poland  
 🌱 I’m using Java, PHP, PowerShell and Python  
 💞️ I’m looking for projects to collaborate on  
-📫 How to reach me? Send me a message piotr@maslak.waw.pl  
+📫 How to reach me? Send me an email piotr@maslak.waw.pl  
 
 <!---
 piotr-maslak/piotr-maslak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
