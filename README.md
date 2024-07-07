@@ -1,5 +1,5 @@
 👋 Hi, I’m sysop with dev and mgmt skills  
-👀 I’m living in Warsaw/Poland  
+👀 I live in Warsaw/Poland  
 🌱 I’m using Java, PHP, PowerShell and Python  
 💞️ I’m looking for projects to collaborate on  
 📫 How to reach me? Send me an email piotr@maslak.waw.pl  
